@@ -30,9 +30,14 @@ Dijkstra()          Find the path using Dijkstra's algorithm.
 ```
 
 - DFS uses a stack as data structure (imported from *Stack.py*).
+
 - BFS uses a queue as data structure (imported from *Queue.py*).
+
 - A* algorithm uses a priority queue as data structure and f-values as priority (imported from *PriorityQueue.py*).
+
 - Dijkstra's algorithm uses a binary heap as data structure and g-values as priority (imported from *BinaryHeap.py*).
+
+- The data structures are from [here](https://github.com/gabrielegilardi/DataStructures.git)
 
 ## Examples and Notes
 
