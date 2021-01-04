@@ -1,6 +1,6 @@
 # Grid Search Algorithms
 
-Class for two-dimensional grid search using Depth First Search (DFS), Breath First Search (BFS), A* algorithm, and Dijkstra'algorithm.
+Two-dimensional grid search using Depth First Search (DFS), Breath First Search (BFS), A* algorithm, and Dijkstra'algorithm.
 
 ## Reference
 
